@@ -10,7 +10,7 @@ default_map = File.expand_path(File.join(File.dirname(__FILE__),'..','sources',
 maps = ARGV.empty? ? [ default_map ] : ARGV
 
 maps.each do |map|
-  unless File.exists?(map)
+  unless File.exist?(map)
     STDERR.puts "No such map exists #{map}"
     STDERR.puts "USAGE: #{$0} map.yaml [ map2.yaml [ map3.yaml ] ]"
     exit 1
