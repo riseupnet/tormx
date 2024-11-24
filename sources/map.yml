@@ -18,34 +18,20 @@
 #
 # Rerun the scripts to generate the mappings for your MTA.
 ---
-'blackhost5xlrhev.onion':
 'blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion':
   - 'blackhost.xyz'
-'4my2dd2okjr75aho.onion':
+'kz4bswvhrqufq7e3ntwtco7jwgrpwwmh5j5kvlbonogt7xoipzwfedyd.onion':
   - 'calyx.com'
   - 'calyxinstitute.org'
-'cssj56utefk3wxsv.onion':
-  - 'boum.org'
 'llqiiswupgezsco4ux47cco3bxsaihbss5c3piefv6bhvpgfofyk7kad.onion':
   - 'systemli.org'
 'abupq2yypwtojgupttylrbwnabmpmydsf4evb2onasmib2go23jyyhqd.onion':
   - 'koumbit.org'
 'asgsory2hji5qpkmgyig2nzquolu5qhsfhz2qaiixdfgivzxlhrahzyd.onion':
   - 'sindominio.net'
-'lloiryev7cvzszsn.onion':
-  - 'espiv.net'
 'xibrfarp4uiwgjrfwbefue6kwlglxxdnfkiebbxcenm4qgg6vcnweqid.onion':
   - 'mail36.net'
   - 'so36.net'
-'mssatgg2rwa4aytk.onion':
-  - 'anargeek.net'
-  - 'irq7.fr'
-  - 'pimienta.org'
-  - 'poivron.org'
-  - 'potager.org'
-  - 'sweetpepper.org'
-'tyiw2fzn3uckv2my.onion':
-  - 'espora.org'
 '6powteszncqwdutlfs57n33i2zqt6jqc2wdcneaihtvrzaps3q3qtwyd.onion':
   - 'lelutin.ca'
 'aj3nsqqcksrrc5cye5etjsoewz6jrygpekzwoko3q6wyxjlb3dgasfid.onion':
@@ -73,5 +59,3 @@
   - 'supernormal.net'
   - 'ungehorsam.ch'
   - 'untenlinks.ch'
-'zq36q5rfxd3cnvd5.onion':
-  - 'lists.espiv.net'
